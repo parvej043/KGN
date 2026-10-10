@@ -112,7 +112,7 @@ if (enquiryForm) {
     // This number belongs to the WhatsApp recipient.
     // Change it if you want to receive enquiries
     // on a different WhatsApp number.
-    const whatsappNumber = "919870917887";
+    const whatsappNumber = "919967127816";
 
     const whatsappURL =
       "https://wa.me/" +
